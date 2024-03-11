@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+   <!-- header --> 
+   <header>
+        <table>
+            <tr>
+                <td>
+                    <img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t1.15752-9/429404026_972062921004877_5259473943709410042_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=510075&_nc_eui2=AeFvaSJN3zynqarePN5e8hVeK4RVq_K10gYrhFWr8rXSBps_eIlS_48WUYiaj6MW9Aw5_15qiOSVNPEKTqaDvBRp&_nc_ohc=qnYWXQz_eLwAX-bNG-s&_nc_ht=scontent.fmnl17-5.fna&oh=03_AdSgmCmwn0YyFdSHbYrSZTEvK-xAfFZ0iTfh27Y8FZTgOQ&oe=6605689E" alt=""max width="115px">
+                </td>
+                <td>
+                    <h1>ALLYSA FE R. CASUCO</h1>
+                    <p>BACHELOR OF SCIENCE INFORMATION TECHNOLOGY</p>
+                </td>
+            </tr>
+        </table>
+   </header>
+   <br>
+   <!--CONTACT-->
+   <section>
+    <h2>Contact</h2>
+    <hr>
+      <p>09091196984</p>
+      <p>allysacasuco@gmail.com</p>
+      <p>FB:Allysa Fe Casuco</p>
+      <p>ZONE 1 Brgy Itaran Polangui Albay</p>
+   <!--ABOUT ME-->
+   <section>
+    <h2>About Me</h2>
+    <hr>
+      <p>Age:19 </p>
+      <p>Birth Date:June 8,2004 </p>
+      <p>Civil Status:Single</p>
+      <p>Gender:Female</p>
+      <p>Religion:Catholic</p>
+      <p>Citizenship:Filipino</p>
+</section>
+    <br>
+    <!--OBJECTIVE-->
+    <section>
+         <h2>Objective</h2>
+         <hr>
+           <p> Highly motivated IT student seeking an entry-level position in the [specific IT field of interest, e.g., cybersecurity, software development, network administration] field, eager to leverage my academic foundation and strong [mention 2-3 relevant skills, e.g., problem-solving, analytical skills, communication skills] to contribute to a dynamic team while continuously learning and expanding my skillset.</p>
+    </section>
+    <br>
+    <!--EDUCATIONAL BACKGROUND-->
+    <section>
+        <h2>Educational Background</h2>
+        <hr>
+        <table>
+            <tr>
+                <td
+                   <h2>2011-2016-</h2>
+                </td>
+                <td>
+                    <p>Itaran Elementary School</p>
+                </td>
+             </tr> 
+             <tr>
+                <td
+                   <h3>2017-2022-</h3>
+                </td>
+                <td>
+                    <p>Polangui General Comprehensive High School</p>
+                </td>
+             </tr> 
+             <tr>
+                <td
+                   <h3>2023-2024-</h3>
+                </td>
+                <td>
+                    <p>Bicol Uniservity Polangui</p>
+                </td>
+             </tr> 
+        </table>
+    </section>
+</body>
+</html>
